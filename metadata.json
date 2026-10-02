@@ -1,0 +1,6 @@
+{
+  "name": "Phander Hub",
+  "description": "Digital Career & Skills Hub empowering youth and women with digital skills, scholarships, career roadmaps, AI guidance, and marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
